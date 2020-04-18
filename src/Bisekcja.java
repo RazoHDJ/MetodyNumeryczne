@@ -43,7 +43,7 @@ public class Bisekcja {
                     return algorytmBisekcji( x, b, epsilon);
                 }
                 else{
-                    System.out.println("Coś poszło nie tak.");
+                    System.out.println("ERROR");
                     return 0;
                 }
 
