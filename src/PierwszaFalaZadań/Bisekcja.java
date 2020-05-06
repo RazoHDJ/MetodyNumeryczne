@@ -1,3 +1,5 @@
+package PierwszaFalaZadań;
+
 import static java.lang.Math.abs;
 
 /**

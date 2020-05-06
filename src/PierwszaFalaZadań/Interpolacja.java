@@ -1,3 +1,5 @@
+package PierwszaFalaZadań;
+
 /**
  *
  * Źródło przypomnienia : https://www.youtube.com/watch?v=vAgKE5wvR4Y

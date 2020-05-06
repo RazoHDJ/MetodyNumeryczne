@@ -1,3 +1,5 @@
+package PierwszaFalaZadań;
+
 import java.util.Scanner;
 
 public class Horner_1_2 {
